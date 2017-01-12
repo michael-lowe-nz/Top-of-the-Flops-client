@@ -1,7 +1,7 @@
 
 # TopOfTheFlopsClient
 
-![TopOfTheFlops](topoftheflops.png)
+![TopOfTheFlops](assets/logo.svg)
 
 Find the best Floppers
 
